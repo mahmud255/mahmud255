@@ -16,4 +16,4 @@ Platform Engineering · Cloud Infrastructure · DevSecOps · Kubernetes Security
 
 ---
 
-**Email:** mahmudur0255@gmail.com | **LinkedIn:** linkedin.com/in/mahmudur255
+**Email:** mahmudur0255@gmail.com
