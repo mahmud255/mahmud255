@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mahmudur Rahman
 
-<!--
-**mahmud255/mahmud255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Platform Operations · DevSecOps · Cloud Security
 
-Here are some ideas to get you started:
+Infrastructure engineer focused on secure, reliable, and automated platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Linux` · `AWS` · `Azure` · `Kubernetes` · `Terraform` · `Ansible`
+
+### Selected Projects
+- DevSecOps Pipeline
+- Kubernetes Security Lab
+- Terraform Infrastructure
+- Infrastructure Automation
