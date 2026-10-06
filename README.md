@@ -3,6 +3,7 @@
 ***Infrastructure & Platform Operations | DevSecOps | Cloud Security***
 
 
+
 Focused on building **secure, automated, and observable cloud platforms** using Kubernetes, and DevSecOps practices.
 
 ### Technologies
