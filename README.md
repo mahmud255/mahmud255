@@ -10,7 +10,8 @@ Focused on building **secure, automated, and observable cloud platforms** using 
 
 `Linux` · `AWS` · `Azure` · `Kubernetes` · `EKS` · `Docker` · `Argo CD` · `Terraform` · `Ansible` · `GitHub Actions` · `Trivy` · `Checkov` · `Gitleaks` · `Prometheus` · `Grafana` · `Datadog` · `New Relic`
 
-### Focus
+---
+**Focus**
 
 `Platform Engineering` · `Cloud Infrastructure` · `DevSecOps` · `Kubernetes Security` · `IaC` · `CI/CD` · `Observability`
 
