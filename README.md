@@ -2,7 +2,6 @@
 
 **Infrastructure & Platform Operations | DevSecOps | Cloud Security**
 
-Infrastructure engineer with 10+ years of experience across Linux, enterprise infrastructure, virtualization, cloud, and platform operations.
 
 Focused on building **secure, automated, and observable cloud platforms** using Kubernetes, and DevSecOps practices.
 
