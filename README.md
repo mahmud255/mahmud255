@@ -8,7 +8,20 @@ Currently focused on **DevSecOps, cloud infrastructure, automation, Kubernetes, 
 
 ### Core Technologies
 
-`Linux` · `AWS` · `Azure` · `Kubernetes` · `Terraform` · `Ansible` · `Docker`
+**Cloud & Platform**  
+`Linux` · `AWS` · `Azure` · `Docker` · `Kubernetes` · `Amazon EKS` · `Helm` · `Argo CD`
+
+**Infrastructure & Automation**  
+`Terraform` · `Ansible` · `Python` · `Git`
+
+**CI/CD & DevSecOps**  
+`GitHub Actions` · `GitLab CI/CD` · `Trivy` · `Gitleaks` · `Checkov` · `SonarQube` · `Semgrep` · `OWASP ZAP`
+
+**Cloud & Platform Security**  
+`IAM` · `OIDC` · `IRSA` · `Secrets Manager` · `DefectDojo` · `Istio`
+
+**Observability & Monitoring**  
+`Prometheus` · `Grafana` · `Datadog` · `New Relic` · `SolarWinds`
 
 ### Areas of Focus
 
