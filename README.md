@@ -2,34 +2,19 @@
 
 **Infrastructure & Platform Operations | DevSecOps | Cloud Security**
 
-Infrastructure engineer with 10+ years of experience designing, operating, and securing production infrastructure across Linux, cloud, virtualization, and enterprise environments.
+Infrastructure engineer with 10+ years of experience across Linux, enterprise infrastructure, virtualization, cloud, and platform operations.
 
-Currently focused on **DevSecOps, cloud infrastructure, automation, Kubernetes, and platform security**.
+Focused on building **secure, automated, and observable cloud platforms** using Kubernetes, Infrastructure as Code, CI/CD, and DevSecOps practices.
 
-### Core Technologies
+## Technologies
 
-**Cloud & Platform**  
-`Linux` · `AWS` · `Azure` · `Docker` · `Kubernetes` · `Amazon EKS` · `Helm` · `Argo CD`
+**Platform:** `Linux` · `AWS` · `Azure` · `Kubernetes` · `EKS` · `Docker` · `Argo CD`  
+**Automation & Security:** `Terraform` · `Ansible` · `GitHub Actions` · `Trivy` · `Checkov` · `Gitleaks`  
+**Observability:** `Prometheus` · `Grafana` · `Datadog` · `New Relic`
 
-**Infrastructure & Automation**  
-`Terraform` · `Ansible` · `Python` · `Git`
+## Focus
 
-**CI/CD & DevSecOps**  
-`GitHub Actions` · `GitLab CI/CD` · `Trivy` · `Gitleaks` · `Checkov` · `SonarQube` · `Semgrep` · `OWASP ZAP`
-
-**Cloud & Platform Security**  
-`IAM` · `OIDC` · `IRSA` · `Secrets Manager` · `DefectDojo` · `Istio`
-
-**Observability & Monitoring**  
-`Prometheus` · `Grafana` · `Datadog` · `New Relic` · `SolarWinds`
-
-### Areas of Focus
-
-- Platform & Infrastructure Operations
-- Cloud Infrastructure & Kubernetes
-- Infrastructure as Code & Automation
-- CI/CD & DevSecOps
-- Security Hardening & Platform Security
+`Platform Engineering` · `Cloud Infrastructure` · `DevSecOps` · `Kubernetes Security` · `IaC` · `CI/CD` · `Observability`
 
 ---
 
