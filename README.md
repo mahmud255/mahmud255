@@ -6,13 +6,11 @@ Infrastructure engineer with 10+ years of experience across Linux, enterprise in
 
 Focused on building **secure, automated, and observable cloud platforms** using Kubernetes, Infrastructure as Code, CI/CD, and DevSecOps practices.
 
-## Technologies
+### Technologies
 
-**Platform:** `Linux` · `AWS` · `Azure` · `Kubernetes` · `EKS` · `Docker` · `Argo CD`  
-**Automation & Security:** `Terraform` · `Ansible` · `GitHub Actions` · `Trivy` · `Checkov` · `Gitleaks`  
-**Observability:** `Prometheus` · `Grafana` · `Datadog` · `New Relic`
+`Linux` · `AWS` · `Azure` · `Kubernetes` · `EKS` · `Docker` · `Argo CD` · `Terraform` · `Ansible` · `GitHub Actions` · `Trivy` · `Checkov` · `Gitleaks` · `Prometheus` · `Grafana` · `Datadog` · `New Relic`
 
-## Focus
+### Focus
 
 `Platform Engineering` · `Cloud Infrastructure` · `DevSecOps` · `Kubernetes Security` · `IaC` · `CI/CD` · `Observability`
 
