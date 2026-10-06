@@ -13,7 +13,3 @@ Focused on building **secure, automated, and observable cloud platforms** using 
 ### Focus
 
 Platform Engineering · Cloud Infrastructure · DevSecOps · Kubernetes Security · Infrastructure as Code · CI/CD · Observability
-
----
-
-**Email:** mahmudur0255@gmail.com
