@@ -1,16 +1,6 @@
-<h1 align="center">Mahmudur Rahman</h1>
+# Mahmudur Rahman
 
-<p align="center">
-  <strong>Infrastructure & Platform Operations | DevSecOps | Cloud Security</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:mahmudur0255@gmail.com">mahmudur0255@gmail.com</a> ·
-  <a href="https://linkedin.com/in/mahmudur255">LinkedIn</a> ·
-  <a href="https://github.com/mahmud255">GitHub</a>
-</p>
-
----
+**Infrastructure & Platform Operations | DevSecOps | Cloud Security**
 
 Infrastructure engineer with 10+ years of experience designing, operating, and securing production infrastructure across Linux, cloud, virtualization, and enterprise environments.
 
@@ -27,3 +17,7 @@ Currently focused on **DevSecOps, cloud infrastructure, automation, Kubernetes, 
 - Infrastructure as Code & Automation
 - CI/CD & DevSecOps
 - Security Hardening & Platform Security
+
+---
+
+**Email:** mahmudur0255@gmail.com | **LinkedIn:** linkedin.com/in/mahmudur255
